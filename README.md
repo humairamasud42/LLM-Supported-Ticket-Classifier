@@ -1,10 +1,10 @@
-# 📩 LLM Support Ticket Auto Tagging
+# LLM Support Ticket Auto Tagging
 
 Automatically classify customer support tickets into relevant categories using Large Language Models (LLMs). This project demonstrates the effectiveness of Zero-Shot and Few-Shot Prompt Engineering for automated ticket tagging and category prediction.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Support teams receive thousands of customer queries daily. Manually categorizing these tickets is time-consuming and error-prone.
 
@@ -17,7 +17,7 @@ This project uses an LLM to automatically:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Automate support ticket categorization using LLMs
 - Compare Zero-Shot and Few-Shot prompting techniques
@@ -26,7 +26,7 @@ This project uses an LLM to automatically:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - OpenAI GPT
@@ -39,7 +39,7 @@ This project uses an LLM to automatically:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 LLM-Support-Ticket-Auto-Tagging/
@@ -61,7 +61,7 @@ LLM-Support-Ticket-Auto-Tagging/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains customer support tickets and their actual categories.
 
@@ -75,7 +75,7 @@ Example:
 
 ---
 
-## 🧠 Classification Categories
+##  Classification Categories
 
 Example tags:
 
@@ -90,7 +90,7 @@ Example tags:
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## Clone Repository
 
@@ -112,15 +112,6 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### Linux/Mac
-
-```bash
-python -m venv venv
-
-source venv/bin/activate
-```
-
----
 
 ##  Install Dependencies
 
@@ -267,19 +258,19 @@ Few-shot prompting improves ticket classification performance by providing conte
 
 #  Project Coverage
 
-✔ Prompt Engineering
+- Prompt Engineering
 
-✔ LLM-Based Text Classification
+- LLM-Based Text Classification
 
-✔ Zero-Shot Learning
+- Zero-Shot Learning
 
-✔ Few-Shot Learning
+- Few-Shot Learning
 
-✔ Top-3 Tag Prediction
+- Top-3 Tag Prediction
 
-✔ Performance Comparison
+- Performance Comparison
 
-✔ Automated Ticket Categorization
+- Automated Ticket Categorization
 
 ---
 
