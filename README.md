@@ -1,4 +1,4 @@
-# LLM Support Ticket Auto Tagging
+# Ticket Auto Tagging Supported By LLMS
 
 Automatically classify customer support tickets into relevant categories using Large Language Models (LLMs). This project demonstrates the effectiveness of Zero-Shot and Few-Shot Prompt Engineering for automated ticket tagging and category prediction.
 
