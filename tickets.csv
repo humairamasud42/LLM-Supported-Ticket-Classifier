@@ -1,0 +1,4 @@
+ticket_text,true_tag
+"My internet is not working",network_issue
+"Unable to login to account",login_issue
+"Payment failed during checkout",billing_issue
